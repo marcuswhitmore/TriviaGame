@@ -13,7 +13,7 @@ setTimeout( () => {
   4 * 1000
 );
 
-
+// Set function to innerhtml questions/radio buttons
 var audio = new Audio("final.mp3");
 
 setTimeout(fiveSeconds, 5000);
